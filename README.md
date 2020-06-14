@@ -15,7 +15,7 @@
 	<meta name="front-end technicist" content="zhengxiaobin">
 	<meta name="pmid" content="28763">
     <meta name="keywords" content="光·遇预约,光·遇下载,光·遇官方下载,光·遇手游,光·遇手游下载,陈星汉,陈星汉光遇,陈星汉新作,温暖的灵魂终将相遇,安卓,预约,光·遇,光遇,光遇,,光遇下载,光遇安卓下载,下载,陈星汉,风之旅人,艺术游戏,光遇预约,预约,陈星汉,陈星汉光遇,陈星汉新作,唯美手游">
-    <meta name="description" content="知名游戏制作人陈星汉最新作品，由网易游戏代理的《光·遇》现已开启苹果App Store预订！在《光·遇》的世界中，你将在柔美的光影与云河之间，随心游历于云海之上，欣赏绝美风景，享受前所未有的沉浸体验，遇见不期而遇的真挚美好。相约6月，一起踏上奇幻而令人惊喜的云上社交冒险之旅">
+    <meta name="description" content="知名游戏制作人陈星汉最新作品！在《光·遇》的世界中，你将在柔美的光影与云河之间，随心游历于云海之上，欣赏绝美风景，享受前所未有的沉浸体验，遇见不期而遇的真挚美好。相约6月，一起踏上奇幻而令人惊喜的云上社交冒险之旅">
     <meta name="applicable-device" content="pc">   
     <link rel="stylesheet" href="https://nie.res.netease.com/comm//js/nie/util/gameorder/css/index.css">
     <link rel="stylesheet" href="https://nie.res.netease.com/comm/js/nie/ref/css/swiper.3.4.1.css">
